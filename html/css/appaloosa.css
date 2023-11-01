@@ -936,6 +936,11 @@ h1.article-bibliography-header {
     height: auto;
     margin: auto;
   }
+
+  img {
+    max-width:50% !important;
+    height:auto !important;
+}
   
   figure figcaption {
     font-family: "Inter", sans-serif;
