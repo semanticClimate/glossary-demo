@@ -24,7 +24,9 @@ All other content used is open licenced.
 
 ### IPCC Glossary citations
 
-> As Zotero sources: https://www.zotero.org/groups/2437020/ock/library 
+Set as CSL: APA 7th Edition
+
+> As Zotero sources: https://www.zotero.org/groups/2437020/ock/library  
 
 #### Sixth Assessment Cycle (AR6)
 
