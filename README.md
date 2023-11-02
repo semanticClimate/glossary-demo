@@ -1,6 +1,6 @@
 # IPCC Glossary: #semanticClimate Research Demo
 
->>> DEMO LINK: [#semanticClimate Research Demo](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/html/index.html)
+> DEMO LINK: [#semanticClimate Research Demo](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/html/index.html)
 
 ## Workflow
 
