@@ -30,6 +30,12 @@ All other content used is open licenced.
 
 “Special Report on the Ocean and Cryosphere in a Changing Climate Glossary.” Sixth Assessment Cycle (AR6). IPCC, September 2019. https://www.ipcc.ch/report/srocc.
 
+“Special Report on Climate Change and Land Glossary.” Sixth Assessment Cycle (AR6). IPCC, August 2019. https://www.ipcc.ch/report/srccl.
+
+“Special Report on Global Warming of 1.5°C Glossary.” Sixth Assessment Cycle (AR6). IPCC, October 2018. https://www.ipcc.ch/sr15/chapter/glossary.
+
+
+
 
 
 
