@@ -24,6 +24,9 @@ All other content used is open licenced.
 
 ### IPCC Glossary citations
 
+#### Sixth Assessment Cycle (AR6)
+
+“Special Report on the Ocean and Cryosphere in a Changing Climate Glossary.” Sixth Assessment Cycle (AR6). IPCC, September 2019. https://www.ipcc.ch/report/srocc.
 
 
 
