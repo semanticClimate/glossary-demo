@@ -875,8 +875,9 @@ h1.article-bibliography-header {
   
 .sem-ann {
   border: 0;
-  background: #f8adad;
-  margin: 10%;
+  background: #fdd2d2;
+  margin: 0%;
+  padding: 10%;
   }
 
   .one ol li {
