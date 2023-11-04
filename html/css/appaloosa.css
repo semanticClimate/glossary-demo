@@ -874,8 +874,9 @@ h1.article-bibliography-header {
   hr.br { border:0; height: 0px; }
   
 .sem-ann {
-  border: 1;
-  background: #af3232;
+  border: 0;
+  background: #bdbdbd;
+  margin: auto;
   }
 
   .one ol li {
