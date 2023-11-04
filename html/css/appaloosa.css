@@ -825,17 +825,17 @@ h1.article-bibliography-header {
   }
   
   h3 {
-    font-size: 1.18rem; /* 1.209rem */
+    font-size: 1.0rem; /* 1.209rem */
     font-family: "Arvo", serif;
     margin-top: 17pt;
     page-break-inside: avoid;
     page-break-after: avoid;
-    font-weight: 600;
+    font-weight: 500;
     margin-bottom: 9pt;
   }
   
   h4 {
-    font-size: 1.01rem; /* 1.023rem */
+    font-size: 1.5rem; /* 1.023rem */
     font-family: "Arvo", serif;
     margin-top: 15pt;
     margin-bottom: 9pt;
