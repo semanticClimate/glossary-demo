@@ -827,7 +827,7 @@ h1.article-bibliography-header {
   h3 {
     font-size: 0.9rem; /* 1.209rem */
     font-family: "Arvo", serif;
-    margin-top: 15pt;
+    margin-top: 5pt;
     page-break-inside: avoid;
     page-break-after: avoid;
     font-weight: 500;
@@ -875,8 +875,13 @@ h1.article-bibliography-header {
   
 .sem-ann {
   border: 0;
-  background: #fde8e8;
-  padding: 0.5em;
+  background: #fbefef;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
   }
 
   .one ol li {
