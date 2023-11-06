@@ -4,7 +4,7 @@
 
 ## Workflow
 
-  1. Start: [IPCC Glossary source](https://apps.ipcc.ch/glossary/)
+  1. Start: [IPCC Glossary source](https://apps.ipcc.ch/glossary/) 
   2. Text and Data Mining code and processing in this [repository petermr/semanticclimate](https://github.com/petermr/semanticClimate/tree/main/ipcc/ar6/test/total_glossary).
   3. Extraction and annotation: [Processed text and data mining HTML output](https://github.com/semanticClimate/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/new_total_demo.html) - Wikipedia and Wikidata links added, etc.
   4. CSS Typesetting using Vivliostyle software (Canary - Alpha) with Report Style: [#semanticClimate Research Demo](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/html/index.html)
