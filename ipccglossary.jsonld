@@ -50,6 +50,17 @@
                 "LinkedResource"
             ],
             "url": "css/book.css"
+        },
+        {
+            "type": "LinkedResource",
+            "rel": "cover",
+            "url": "images/cover.jpg",
+            "encodingFormat": "image/jpeg"
+        },
+        {
+            "type": "LinkedResource",
+            "url": "css/media/Inter-Regular.ttf",
+            "encodingFormat": "application/vnd.ms-opentype"
         }
     ]
 }
