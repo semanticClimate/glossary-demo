@@ -1,0 +1,46 @@
+{
+    "type": [
+        "Book"
+    ],
+    "name": [
+        {
+            "value": "IPCC Glossary",
+            "language": "en"
+        }
+    ],
+    "author": [
+        {
+            "type": [
+                "Organisation"
+            ],
+            "name": [
+                {
+                    "value": "IPCC"
+                }
+            ]
+        }
+    ],
+    "dateModified": "2023-11-21T17:00:00Z",
+    "readingOrder": [
+        {
+            "type": [
+                "LinkedResource"
+            ],
+            "url": "https://raw.githubusercontent.com/petermr/semanticClimate/main/ipcc/ar6/test/total_glossary/new_total_demo.html"
+        }
+    ],
+    "resources": [
+        {
+            "type": [
+                "LinkedResource"
+            ],
+            "url": "css/appaloosa.css"
+        },
+        {
+            "type": [
+                "LinkedResource"
+            ],
+            "url": "css/book.css"
+        }
+    ]
+}
