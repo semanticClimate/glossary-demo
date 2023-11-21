@@ -1,7 +1,15 @@
 {
+    "@context" : [
+        "https://schema.org",
+        "https://www.w3.org/ns/pub-context", 
+        {
+            "language": "en"
+        }
+    ],
     "type": [
         "Book"
     ],
+    "url": "https://apps.ipcc.ch/glossary/",
     "name": [
         {
             "value": "IPCC Glossary",
@@ -20,7 +28,8 @@
             ]
         }
     ],
-    "dateModified": "2023-11-21T17:00:00Z",
+    "datePublished" : "2023-11-03",
+    "dateModified"  : "2023-11-23",
     "readingOrder": [
         {
             "type": [

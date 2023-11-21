@@ -13,6 +13,9 @@
   7. W3C Publication Manifest example - https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld
   8. Documentation of manifest use here - https://docs.vivliostyle.org/#/vivliostyle-viewer#web-publications-multi-html-documents
 
+  - Readium Web Publication Manifest - https://github.com/readium/webpub-manifest/
+  - Publication Manifest - https://www.w3.org/TR/pub-manifest/
+
 ## Copyright, open licencing
 
 IPCC Glossary © Intergovernmental Panel on Climate Change (v 1.5)
