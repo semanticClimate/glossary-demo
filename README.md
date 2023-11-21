@@ -8,12 +8,10 @@
   2. Text and Data Mining code and processing in this [repository petermr/semanticclimate](https://github.com/petermr/semanticClimate/tree/main/ipcc/ar6/test/total_glossary).
   3. Extraction and annotation: [Processed text and data mining HTML output](https://github.com/semanticClimate/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/new_total_demo.html) - Wikipedia and Wikidata links added, etc.
   4. Report Style - CSS style from Raquel Eulate (Interpunct Studios) https://interpunct.dev/ used by ADA Semantic Publishing Pipeline (TIB) - https://github.com/TIBHannover/ada
-
-    - CSS Typesetting using Vivliostyle software (Canary - Alpha) with Report Style: [#semanticClimate Research Demo](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld)
-
-    - Vivliostyle software - https://vivliostyle.org/
-    - W3C Publication Manifest example - https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld
-    - Documentation of manifest use here - https://docs.vivliostyle.org/#/vivliostyle-viewer#web-publications-multi-html-documents
+  5. CSS Typesetting using Vivliostyle software (Canary - Alpha) with Report Style: [#semanticClimate Research Demo](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld)
+  6. Vivliostyle software - https://vivliostyle.org/
+  7. W3C Publication Manifest example - https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld
+  8. Documentation of manifest use here - https://docs.vivliostyle.org/#/vivliostyle-viewer#web-publications-multi-html-documents
 
 ## Copyright, open licencing
 
